@@ -6,11 +6,7 @@ This project is a simple app that can add and delete shopping items in the list.
 
 In the project directory, you can run:
 
-### 'npm run start'
-
-Runs the back-end in the developemnt mode.<br>
-
-### 'npm run client'
+### 'npm start'
 
 Runs the front-end in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
